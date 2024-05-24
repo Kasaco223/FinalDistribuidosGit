@@ -8,6 +8,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/Firebase/
+/Plugins/
 /[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
